@@ -1,0 +1,6 @@
+/Users/nathanduncan/projects/daysUntilChristmas/daysUntilChristmas/bin/Debug/daysUntilChristmas.exe
+/Users/nathanduncan/projects/daysUntilChristmas/daysUntilChristmas/bin/Debug/daysUntilChristmas.pdb
+/Users/nathanduncan/projects/daysUntilChristmas/daysUntilChristmas/obj/Debug/daysUntilChristmas.csproj.AssemblyReference.cache
+/Users/nathanduncan/projects/daysUntilChristmas/daysUntilChristmas/obj/Debug/daysUntilChristmas.csproj.CoreCompileInputs.cache
+/Users/nathanduncan/projects/daysUntilChristmas/daysUntilChristmas/obj/Debug/daysUntilChristmas.exe
+/Users/nathanduncan/projects/daysUntilChristmas/daysUntilChristmas/obj/Debug/daysUntilChristmas.pdb
