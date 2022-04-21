@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Globalization;
-using System.Reflection;
 
 namespace daysUntilChristmas
 {
@@ -13,15 +12,15 @@ namespace daysUntilChristmas
             string myLocation = "Ammon, Idaho";
 
             //Req 3
-            Console.WriteLine("My name is " + myName);
-            Console.WriteLine("I am from " + myLocation);
+            Console.WriteLine($"My name is {myName}");
+            Console.WriteLine($"I am from {myLocation}");
 
             //Req 4
             DateTime today = DateTime.Today;
-            Console.WriteLine(today.ToString("d", DateTimeFormatInfo.InvariantInfo));
+            Console.WriteLine(today.ToString("d")); 
 
             //Req 5
-            DateTime christmas = new DateTime(2022, 12, 25);
+            DateTime christmas = new DateTime(2022, 12, 25); 
             TimeSpan difference = christmas - today;
             Console.WriteLine("There are " + difference.Days + " days until Christmas!");
 
