@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\W02\bin\Debug\net6.0-windows\W02.exe
+\\Mac\Home\Desktop\W02\bin\Debug\net6.0-windows\W02.deps.json
+\\Mac\Home\Desktop\W02\bin\Debug\net6.0-windows\W02.runtimeconfig.json
+\\Mac\Home\Desktop\W02\bin\Debug\net6.0-windows\W02.dll
+\\Mac\Home\Desktop\W02\bin\Debug\net6.0-windows\W02.pdb
+\\Mac\Home\Desktop\W02\obj\Debug\net6.0-windows\W02.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\W02\obj\Debug\net6.0-windows\W02.Form1.resources
+\\Mac\Home\Desktop\W02\obj\Debug\net6.0-windows\W02.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\W02\obj\Debug\net6.0-windows\W02.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\W02\obj\Debug\net6.0-windows\W02.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\W02\obj\Debug\net6.0-windows\W02.AssemblyInfo.cs
+\\Mac\Home\Desktop\W02\obj\Debug\net6.0-windows\W02.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\W02\obj\Debug\net6.0-windows\W02.dll
+\\Mac\Home\Desktop\W02\obj\Debug\net6.0-windows\refint\W02.dll
+\\Mac\Home\Desktop\W02\obj\Debug\net6.0-windows\W02.pdb
+\\Mac\Home\Desktop\W02\obj\Debug\net6.0-windows\W02.genruntimeconfig.cache
+\\Mac\Home\Desktop\W02\obj\Debug\net6.0-windows\ref\W02.dll

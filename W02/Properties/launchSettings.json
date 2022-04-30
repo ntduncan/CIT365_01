@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "W02": {
+      "commandName": "Project",
+      "commandLineArgs": "dotnet run",
+      "workingDirectory": "\\\\Mac\\Home\\Desktop\\W02"
+    }
+  }
+}
