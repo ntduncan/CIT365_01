@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\MegaDesk-Duncan\obj\Debug\MegaDesk-Duncan.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\MegaDesk-Duncan\obj\Debug\MegaDesk-Duncan.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\MegaDesk-Duncan\obj\Debug\MegaDesk_Duncan.MainMenu.resources
+\\Mac\Home\Desktop\MegaDesk-Duncan\obj\Debug\MegaDesk_Duncan.Properties.Resources.resources
+\\Mac\Home\Desktop\MegaDesk-Duncan\obj\Debug\MegaDesk-Duncan.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\MegaDesk-Duncan\obj\Debug\MegaDesk-Duncan.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\MegaDesk-Duncan\bin\Debug\MegaDesk-Duncan.exe.config
+\\Mac\Home\Desktop\MegaDesk-Duncan\bin\Debug\MegaDesk-Duncan.exe
+\\Mac\Home\Desktop\MegaDesk-Duncan\bin\Debug\MegaDesk-Duncan.pdb
+\\Mac\Home\Desktop\MegaDesk-Duncan\obj\Debug\MegaDesk-Duncan.exe
+\\Mac\Home\Desktop\MegaDesk-Duncan\obj\Debug\MegaDesk-Duncan.pdb
+\\Mac\Home\Desktop\MegaDesk-Duncan\obj\Debug\MegaDesk_Duncan.AddQuote.resources
+\\Mac\Home\Desktop\MegaDesk-Duncan\obj\Debug\MegaDesk_Duncan.ViewAllQuotes.resources
+\\Mac\Home\Desktop\MegaDesk-Duncan\obj\Debug\MegaDesk_Duncan.SearchQuote.resources
